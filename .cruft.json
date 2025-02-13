@@ -1,0 +1,24 @@
+{
+  "template": "https://github.com/monarch-initiative/monarch-project-template",
+  "commit": "b85920a3bbff9377b1834a4df758e2423663a918",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "go-reaction-logic",
+      "github_org_name": "geneontology",
+      "__project_slug": "go_reaction_logic",
+      "project_description": "Inference procedures for reactions and metabolic pathways",
+      "min_python_version": "3.9",
+      "file_name": "main",
+      "greeting_recipient": "World",
+      "full_name": "Author 1",
+      "email": "author@org.org",
+      "__author": "Author 1 <author@org.org>",
+      "license": "BSD-3",
+      "github_token_for_doc_deployment": "GH_TOKEN",
+      "github_token_for_pypi_deployment": "PYPI_TOKEN",
+      "_template": "https://github.com/monarch-initiative/monarch-project-template"
+    }
+  },
+  "directory": null
+}
