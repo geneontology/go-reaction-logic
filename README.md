@@ -26,3 +26,5 @@ pip install go-reaction-logic
 ## UI
 
 For demo purposes only:
+
+<img width="1045" alt="image" src="https://github.com/user-attachments/assets/88ffd555-0d3b-493c-b197-7328f47d185b" />
