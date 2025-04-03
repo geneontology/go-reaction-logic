@@ -23,6 +23,10 @@ Returns:
 pip install go-reaction-logic
 ```
 
+## Report
+
+[GO-CAM intermediates](https://docs.google.com/spreadsheets/d/1_xsJFHEnKJfcD5RM8JsRbiT2w_AusBg8mN_5UyKw4z8/edit?gid=577399064#gid=577399064)
+
 ## UI
 
 For demo purposes only:
